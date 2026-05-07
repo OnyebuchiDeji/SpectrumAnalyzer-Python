@@ -21,7 +21,7 @@ Codersbringchange (2025), "Unlocking Frequencies: ..." 3 July [Youtube]. Availab
 
 
 #####	Screenshots
-[image 0]('./_scrnshots/scrnshot0.png')
-[image 1]('./_scrnshots/scrnshot1.png')
-[image 2]('./_scrnshots/scrnshot2.png')
-[image 3]('./_scrnshots/scrnshot3.png')
+![image 0](./_scrnshots/scrnshot0.png)
+![image 1](./_scrnshots/scrnshot1.png)
+![image 2](./_scrnshots/scrnshot2.png)
+![image 3](./_scrnshots/scrnshot3.png)
